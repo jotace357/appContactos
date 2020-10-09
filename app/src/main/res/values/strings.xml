@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">appContactos</string>
+    <string name="activity1">Ingrese sus datos</string>
+    <string name="nombre">Nombre</string>
+    <string name="nacimiento">F. Nacimiento</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="contacto">Contacto</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="activity2">Datos del Contacto</string>
+    <string name="volver">Volver</string>
+
+</resources>
